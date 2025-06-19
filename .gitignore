@@ -1,0 +1,25 @@
+# 📁 Ambiente virtuale
+venv/
+
+# 📁 Configurazioni di VS Code
+.vscode/
+
+# 📁 File temporanei e compilati Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📁 File CSV
+*.csv
+
+# 📁 File di modello troppo grandi
+output_cluster/hdbscan_model.joblib
+versioneLancioMassivo/hdbscan_model.joblib
+
+# 📁 Cartelle da ignorare interamente
+versioneLancioMassivo/
+
+# 📄 File di sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,42 @@
+[
+  {
+    "method": "dbscan",
+    "run": 0,
+    "umap_cfg": {
+      "n_neighbors": 2,
+      "min_dist": 0.1,
+      "n_components": 2
+    },
+    "params": {
+      "eps": 0.1,
+      "min_samples": 2,
+      "metric": "euclidean"
+    },
+    "n_clusters": 0,
+    "noise_points": 3,
+    "silhouette": NaN,
+    "top_terms": {},
+    "labels": [
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "method": "dbscan",
+    "run": 0,
+    "umap_cfg": {
+      "n_neighbors": 2,
+      "min_dist": 0.1,
+      "n_components": 2
+    },
+    "params": {
+      "eps": 0.1,
+      "min_samples": 2,
+      "metric": "cosine"
+    },
+    "n_clusters": 1,
+    "noise_points": 0,
+    "silhouette": NaN,
+    "top_terms": {
+      

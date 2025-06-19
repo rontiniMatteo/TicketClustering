@@ -1,0 +1,281 @@
+Sì. Ah, lo so. roba colorata è colorato dall'altro Buondì buon Buongiorno.
+Chiedo scusa, ero in un'altra riunione con ricevimento.
+No, nessun problema, ci mancherebbe. Va bene, allora eh fammi mi fai un recup?
+Sì. Allora, eh l'ultimo incontro, cioè l'ultimo l'ultimo e il primo incontro, diciamo, che c'è stato di questo progetto era incentrato sul trovare una una tesi o comunque una linea generale sul progetto, capire bene qual era l'obiettivo
+e capire anche magari un po' dei possibili agenti che potessero confermare o meno questa tesi. Ehm, il progetto ehm adesso ho ripreso un attimo la mail anche che l'ho inviato, eh è quello, l'obiettivo è quello di andare ad identificare automaticamente i ticket ripetitivi analizzando esclusivamente la descrizione. testuale del ticket. Ehm, questa descrizione, questi ticket si trovano su un DB My Sequel, ehm, che comunque è già m diviso, è già suddiviso nei vari campi con il titolo del ticket, la descrizione, eh quando è stato aperto ehm ci sono comunque diverse informazioni che possono essere utili.
+Ok, Matteo, scusami. Sì, mi mi ricordo infatti il diciamo il il progetto che avevamo che avevamo pensato anche per te in ambito lavorativo. Dove dove sei?
+Sì,
+giusto.
+Esatto.
+Ehm non ricordo se avevamo fissato o se ci avevi pensato un po' al a qual era la tesi, cioè nel senso qual era la cosa che volevi effettivamente confermare a partire dai ticket, cioè che ci fosse una qualche relazione tra una specifica eh perché mi ricordo poi me l'avevi detto in realtà solo che non mi ricordo cos'era adesso, che ci fosse una specifica relazione tra eh la descrizione testuale, poi chi effettivamente andava a risolvere, non mi ricordo se era il il chi chi veniva assegnato,
+no?
+Diciamo il target della
+la questione principale è il fatto che la MS di primo livello è esternalizzata a un fornitore e quindi l'obiettivo sarebbe quello di andare e questo fornitore m diciamo viene seguito, ma
+per andare a efficientare il il processo si potrebbe andare ad agire appunto su questo su questo aspetto di non esternalizzare sto servizio, mantenerlo interno con un classificatore, suppongo,
+no? È più il lo lasciamo esternalizzato perché comunque la mole di ticket è molto importante e ma ci sono dei ticket ripetitivi che il fornitore, diciamo, noi gli chiediamo di dircelo e nel caso che ci fossero dei ticket semplici che magari si risolvono con una query stupida, ehm, però noi li paghiamo a ticket e Quindi loro fanno finta di niente, quindi sarebbe, cioè detta come va detta, è saltato fuori da poco cè ridurre i costi. Ok. Ok, ottimo. Ok,
+quindi sarebbe incentrato
+ridurre i costi attraverso attraverso una un filtro. Riesci a fare un filtro di quelli che puoi su cui puoi agire direttamente, invece quelli da mandargli, quindi così concentri anche il lavoro che fanno loro e riduci i costi.
+Esatto. Questo, diciamo, sarebbe il focus, il target.
+Beh, perfetto. Allora, ok, questa tesi, appunto, di Cioè, mettila proprio giù così se posso. Vabbè, non ho letto se hai cominciato a fare relazioni e per per il progetto, però guarda veramente molto brevemente mettila giù in questo modo. C'è proprio un efficientamento del del processo
+in cui tu dici appunto quei eh la mole di ticket va comunque gestita, però ridurre la mole di ticket porta a un m a una riduzione dei costi e a un un e anche un efficientamento in termini di tempo, perché se do meno ticket ci metti meno tempo a
+Sì, sì. Si dà priorità a quelli
+Esatto. Si dà priorità ai ticket più rilevanti.
+Esatto.
+Ehm, te lo dico perché questo aspetto qui può essere proprio messo a sistema, nel senso che per concludere che tu effettivamente hai efficientato il sistema, puoi anche puoi andare a vedere, che ne so, appunto, il costo per ticket e dire qual è il costo totale di un di un di mandare a servizio un certo numero di ticket con una certa priorità, non so, con un certo eh con una su una qualche scala di priorità, quindi diciamo lo puoi mettere a sistema per concludere che il tuo progetto è è appunto è terminato. Sì, sì, sì.
+Ha una conclusione, ha un'utilità tangibile.
+Eh,
+ok.
+Sì, sì. È che questa utilità tangibile sia effettivamente poi il il parametro con cui tu misuri la il la conferma della tesi. Ecco.
+Ok. E poi dopo Sì, esatto. Come ehm come conferma della tesi, come mi aveva un po' consigliato, ehm mi ero segnato due punti, come quello di intervistare i colleghi che interagiscono direttamente con il servizio MS, quindi ponendo domande mirate per confermare la presenza del problema. Tipo ti è capitato di notare che alcune richieste risolte dal servizio MS si ripresentino? ritieni che sarebbe utile avere maggiore visibilità sulla frequenza con cui determinate problematiche si ripetono, tipo domande a questo livello per cercare appunto di ehm di confermare
+confermare Sì, sì.
+Quindi, diciamo, pensavo di fare questo come primo primo step e poi magari come secondo step che comunque, cioè sono delle proposte, sarebbe tipo quella di un'analisi manuale supervisionata di un un campione limitato di ticket mh per verificare oggettivamente se ci siano dei casi ripetitivi, ma questo, diciamo, l'o scritto un po' di tempo fa. Ehm, a breve, diciamo, il mio responsabile ha visto due ticket uguali, ma ha scoperto che non erano uguali solo questi due, ma ce n'erano una decina nel giro di ultimi tre mesi e quindi ha inviato una mail dicendo "Ce lo dovete dire allora." "Sì, scusate, han fatto finta di niente". Ecco.
+Ok. Va bene. Ok. Io direi che il problema è validato. Eh, sinceramente adesso non non ti farei perdere altro tempo su questo discorso validazione del problema. Era importante porlo, metterlo a sistema perché eh perché nella descrizione tu dici benissimo, non mi sono svegliato stamattina che per me questo problema c'è, ma è un problema reale ed è confermato nei dati. M
+ehm eh niente, il discorso poi di quindi è proprio una, diciamo, quello che vuoi fare è proprio cercare di capire se i ticket sono ridondanti.
+Sì.
+Mh. E hai pensato a a come cioè a che esperimento fare? Quindi, allora, a che cosa vuoi andare a controllare, diciamo, ecco, a su che cosa ti vuoi concentrare per andare a capire, perché questo è uscito sicuramente fuori, probabilmente da dai discorsi, no, con il eh con il tuo superiore piuttosto che con il tuo responsabile piuttosto che con i tuoi colleghi, cioè quando due ticket sono effettivamente ridondanti. Sì,
+quando quando la problematica, perché alla fine i ticket sono delle problematiche, eh è la stessa, ovvero che viene sbagliato da un report che gira, abitualmente viene sbagliata la data di fine validità listino, dico una cosa
+del genere e si vede che questa data a fine validità viene sbagliata ogni ogni mese e c'è un giorno che per qualche motivo
+c'è una certa Ok, quindi c'è una certa ripetutività temporale
+Sì. Sì,
+nella presentazione del ticket che ti dice oltre al fatto che il ticket, non lo so, c'ha una descrizione simile, ma non la stessa, perché magari lo fanno due persone diverse.
+Esatto. Quindi sì,
+quindi hanno delle descrizioni, ma soprattutto tu identifichi che hanno anche una temporalità perché giustamente il momento in cui parte quel report è il primo del mese, facciamo E quindi il due o lo stesso primo del mese c'è una persona che può essere diversa da che ti dice guarda che la data è sbagliata in forme diverse, allegando cose diverse e quindi chiaramente quello lì è un ticket ridondante perché in realtà gliel'abbiamo già mandato il mese il mese prima non l'hanno ancora risolto e e te lo ritrovi.
+Sì, quindi sì, sicuramente ci sono magari dei momenti dove si aprono 15 ticket perché c'è un problema effettivo, quello eh sarebbe da andare ad escludere perché se Non lo so, si spegne un server, abbiamo 100 ticket in 2 minuti sulla stessa cosa lì. In quel caso sì, sono ridondanti, ma perché c'è un problema localizzato a una certa area temporale. Ecco.
+Ok. Ok. Quindi qui si tratta di identificare appunto quali sono questi questi predittori. Penso siano tanti in realtà perché poi un conto è appunto il cioè vabbè un è la rappresentazione che gli vuoi dare qui un po' il discorso. Non so se ci hai pensato.
+Cioè dargli, che ne so, il l'ora della giornata, il minuto della giornata, al secondo della giornata, perché dipendentemente dalla risoluzione tu dici "Ah, un server si è inchiodato e quindi mi aspetto che nei 2 minuti successivi minuti, quindi vuol dire che tu devi avere una risoluzione quasi al secondo, ti escano 100 ticket".
+Allora, a livello di DB ce l'ho sottoperto e mi sembra che siano dei daytime.
+Sì, sarà Ah, daytime,
+sì,
+non time aspetta un attimo. Controllo. È un daytime, mi sa, perché c'è sia la data che l'orario.
+L'orario con secondi, ore, minuti, secondi.
+Sì, sì. 16 1740 anche i millesimi, però
+ecco,
+sono a zero tutti, quindi Sì. No, secondi direi.
+Ehm. Ok, quindi anche lì magari ti vuoi fare Cioè, poi appunto dalla rappresentazione che vuoi dare, ehm, direi che dipende poi il l'approccio l'approccio che hai in termini di modello, cioè la dalla rappresentazione ovviamente dipenderà il modello. Mh
+mh.
+Quindi diciamo io agirei a diversi livelli. Il primo livello è il tuo setup sperimentale, ma proprio perché conosci il problema, diciamo, cioè
+che span temporale deve prendere? Cioè, non lo so, eh Perché tu dirai, "Non posso prendere tutti i ticket che hanno prodotto da qua a 10 anni,
+ma voglio concentrarmi su dei ticket che hanno, innanzitutto tu vorresti prendere il più possibile dei ticket che sono ridondanti."
+Sì. Sì.
+Perché vuoi capire quando un ticket è ridondante.
+Sì, sì, sì. Se guardiamo un arco temporale breve, fatica.
+Esatto. Però tu non hai una, cioè non è che hai una ground trof, cioè nel senso che non è che hai in modo supervisionato per ogni ticket è ridondante, non è ridondante e anche perché poi non puoi dire un ticket è ridondante perché tu hai due ticket che sono simili, quindi dovresti avere una misura di similitudine
+mh
+tra due ticket,
+sì,
+dove ovviamente se è ridondante la similitudine tra un ticket A e un ticket B è 1 e se non è ridondante la la la diciamo è zero. Quindi dovresti avere una misura fondamentale, cioè una distanza tra ticket.
+Sì.
+Ok.
+Sì.
+Bene. Eh, ecco, quindi il tuo obiettivo è costruire un modello, da quello che capisco, che presa una rappresentazione del ticket che contiene le informazioni del ticket, che possono essere appunto la descrizione testuale, il e cioè quelle che secondo te sono importanti mh
+mh deve eh praticamente una funzione di distanza, cioè deve dare una rappresentazione che è appunto una certa un vettore, una rappresentazione vettoriale E questa rappresentazione vettoriale messa a confronto con un'altra rappresentazione vettoriale di un ticket se combacia, quindi se fare la distanza, per esempio, che ne so, la similità cosenica, cioè un una distanza vettoriale, risulterà ehm zero se questa se questa distanza è appunto se se sono sovrapposti.
+Ok?
+Quindi se è zero quelli là sono ridondanti.
+Ok? Sì. Mettere un range. Esatto.
+Esatto. La similità cosenica in realtà è ancora meglio. È il contrario. Se sono se sono schiacciati è uno perché è una similarità, non è una distanza.
+Quindi, per esempio, potrebbe essere una buona misura che ti dice eh viene usata molto in NLP mh
+mh
+per dare la distanza semantica tra due tra due frasi, diciamo, tra due token o gruppi di token,
+però si può fare si può utilizzare ovviamente su rappresentazioni vettoriali di qualunque tipo, quindi tu potresti avere, che ne so, per esempio, una trasformazione della iscrizione in una rappresentazione vettoriale m
+attraverso le soliti sistemi eh che sono abbastanza off the shelf, cioè li puoi prendere e dire mi trasformi in vettore questo questa frase con un qualche transformer o Bert o modello language model e e poi ci potresti voler aggiungere delle informazioni come per esempio le informazioni temporali,
+ok?
+Che non che non sono,
+diciamo, dentro la descrizione, a meno che non vuoi metterle testualmente dentro la descrizione, puoi trasformare tutto in, però potresti trovarti, non lo so, non in realtà non ho troppa esperienza sull'aggiungere informazioni temporali a informazioni NLP,
+m
+quindi non ti so dire quale delle due così a spanne sia la migliore, bisogna fare un po' di ricerca forse.
+Ok,
+però
+dimmi dimmi.
+No, sì, sì, magari provo a capire un po' cosa cosa vuol dire. Cioè, io mi immagino che tu a punto c'hai le informazioni forse più interessanti, a meno che del appunto del tuo database non c'hai 100 colonne che secondo me sono tutte quante importanti, ma se vuoi stabilire che la descrizione e il tempo in cui vengono fatte, perché quella poi è la tua tesi, capito?
+Sì.
+Cioè descrizione e momento identificano la ridondanza.
+Sì.
+E a partire da questo, appunto, io mi immagino che tu abbia, cioè i puoi scomporre la data in tante variabili che sono giorno dell'anno, mese, ora, minuto, secondo e ti compongono, non lo so, 3 4 5 6 7 eh variabili e poi hai il tuo testo che vuoi passare per qualcosa che lo trasforma in una rappresentazione vettoriale m
+m
+semantica di un numero fisso di ovviamente di di valori, quindi una frase diventa un vettore di boh valori, che è come fanno di solito appunto in che ne so sentiment analysis, per esempio. Ok,
+questo commento è positivo o negativo, lo trasformo prima in una rappresentazione univoca e poi ti dico se sta più in là o più in qua.
+Sì, sì, sì.
+Quindi a questo vettore di 300 valori che ti rappresenta la tua descrizione, gli aggiungi il vettore di 10 valori che ti rappresenta la tua ora e a quel punto che cosa fai? Fai una magari fai ulteriore trasformazione attraverso il tuo modello eh di apprendimento automatico e impari lì a produrre queste queste rappresentazioni, cioè impari a a creare queste rappresentazioni combinate di data e testo,
+ok?
+E a a calcolarne la distanza la la distanza semantica tra eh ticket. Questo in questo senso il problema diventa ovviamente tra l'altro si potrebbe anche non apprendere, diciamo, cioè tu potresti calcolare semplicemente la distanza mh
+appunto avere questa rappresentazione semantica della descrizione, aggiungerci la data e calcolare quanto sono distanti due cose. Però quello che ti trovi potrebbe essere che effettivamente se hai una se hai un ticket, cioè se non impari nulla mh
+mh
+da questo sistema, non so, sto sto un attimo, cioè sto parlando un po' a ruota libera, poi mi dici se
+se è comprensibile. Se non impari nulla dal tuo sistema, quello che potrebbe succedere è che non impara appunto una relazione temporale. fatto che ogni mese ti avviene avviene la stessa richiesta, ma se calcoli semplicemente la distanza tra un testo e una data, ti potrebbe dire, guarda, questa a distanza elevata perché ha un mese di differenza.
+M
+capito? Invece quello che tu dovresti imparare effettivamente è la distribuzione delle tue delle tue descrizioni. Quindi se tu becchi descrizioni simili in momenti con delle stagionalità m
+possono essere anche stagionalità, cioè per dire con delle ripetizioni temporali. Allora quelle sono le cose che ti interessano. Quindi dovresti beccare, dovresti imparare a posizionare descrizioni nel tempo e associarle a questo a questa distanza a questa distanza breve tra due cose che hanno la stessa descrizione
+e tempi sempre se questa cosa del tempo per te è estremamente importante perché, cioè in una prima fase puoi anche fare, per esempio, guarda, la descrizione è molto simile, solo che quanti devi andare a guardare quanti falsi positivi c'hai, perché se poi
+eh sì, lì lì c ci sono quei momenti dove ne aprono tanti perché c'è un problema circoscritto, non so come dire. Ecco, quindi
+sì, no, sicuramente quello di fargli apprendere, poi dopo m magari se ci sono anche solo due ticket molto distanti in un primo momento ti dice che non è particolarmente ridondante, quindi in base come se uno guarda la distanza, la vicinanza e poi ne magari ne escono altri due vicini, dice "Ah, però ce ne sono stati altri due".
+Però vedi, da quello che mi dici tu, cioè il tempo è molto importante, cioè dalla descrizione testuale non questa cosa non basta la descrizione testuale per tirarlo fuori. Secondo te? parte che bisognerebbe ovviamente vederlo.
+Sì, sì, certo.
+Cioè bisognerebbe testare per vedere se effettivamente quella basta o meno.
+Vabbè che
+però a span mi sembra che non che non lo so, da quello che mi dici mi sembra che non basti.
+Cioè sto pensando comunque che sì, comunque come struttura del progetto la parte testuale tanto eh siamo d'accordo da fare la trasformazione vettoriale e quindi alla fine un primo giro si può fare così. Però sì, io mi aspetto di trovare diversi falsi falsi positivi e poi inserire una data in un secondo momento, non so se può essere anche una sorta di sperimentazione che può essere utile o meno per eh rafforzare
+Sì, insomma, perché ci sono tanti modi, nel senso il discorso è che ovviamente quando vai a metterci del testo dentro m
+mh
+il testo ha una sua ha una sua rappresentazione particolare, cioè perché ovviamente ci sono tanti modi anche di rappresentare are il testo in forma numerica. Uno di questi modi, chiaramente è la eh andare a identificare, per esempio, delle parole chiave, la frequenza delle parole, quindi mettere semplicemente il dizionario, no?
+Mh mh.
+Quindi andare a valutare in modo in modo più semplice, non andando a guardare la semantica, ma andando semplicemente a guardare la frequenza delle parole. Però la frequenza delle parole, se viene scritta da persone diverse, cioè ha i suoi limiti, diciamo. Ecco.
+Ok.
+Se si vuole andare un po' più in usare strumenti avanzati, ovviamente l'utilizzo di tecniche, appunto, più basate sui modelli linguistici può essere più interessante. Poi nulla vieta che però tu in realtà e poi però se decidevi aggiungere discorsi della data ehm significa aggiungerci delle informazioni eh diverse
+mh
+ma nulla vieta che tu effettivamente puoi provare per esempio a mettere la data dentro la descrizione e quindi prendi tutto quanto come se fosse un grande testo nell NLP, ne consideri la trasformazione attraverso dei modelli e poi vai a misurare la distanza cosenica tra eh ticket che hanno al loro interno la data. Ancora una volta, secondo me, ti troverai nella situazione in cui ehm potresti avere distanza grande perché due ticket sono lontani nel tempo.
+Mh mh.
+E quindi in realtà non stai facendo il questo gioco di apprendimento della temporalità dei tuoi dati, eh, oppure la cosa migliore che adotterei io è appunto imparare dalla serie temporale dei tuoi dati, cioè i tuoi dati secondo me hanno una stagionalità e tu vuoi fondamentalmente addestrare un modello ad apprendere la temporalità del dei tuoi ticket.
+Sì.
+Quindi la cosa che mi verrebbe proprio cioè che che secondo me avrebbe più senso è ehm appunto utilizzare un un modello che ti trasforma eh le tue descrizioni in forma vettoriale, quindi che dà una rappresentazione vettoriale alle tue descrizioni, ehm che le inserisce in un sistema in una in una rappresentazione che contiene altre variabili comprese quelle temporali e poi questa tutta questa rappresentazione con informazioni temporali e informazioni descrittive le passi per un modello che anche lì cosa impara? Impara a eh codificare in una rappresentazione univoca perché tu poi non hai una classificazione, cioè in questo in questo frangente non hai una classificazione perché non sei supervisionato
+mh
+non hai una effettiva etichetta di ridondanza, anche perché l'etichetta di ridondanza in realtà non esiste, perché è ridondante rispetto a un ticket.
+Sì, sì, sì.
+Quindi, quando hai questa cosa del essere eh ridondanti rispetto a qualcos'altro, cioè essere uguali a qualcos'altro, tu quello che stai facendo fondamentalmente è un encoding, cioè stai trovando una rappresentazione, una codifica che messa a confronto con un'altra codifica ti dice che effettivamente la la distanza è eh minima massima o la similarità è minima massima. Ehm, quindi impari a dare delle codifiche.
+Ok?
+Quindi stai usando fondamentalmente un un encoder decoder, come verrebbe detto a livello di modelli di apprendimento automatico. Ehm Ok, direi che a livello, chiamiamolo, architetturale ad alto livello, mi sembra Sì,
+sì, non è un problema. Anch'io l'avevo preso più Perché appunto immaginandomi che comunque avevi una ground trof l'avevo presa più come un problema di classificazione, ma non è un problema banalissimo.
+Mh.
+Perché determinare la l'uguaglianza, cioè anche ragionandoci, per automatizzare un processo che ti dice se qualcosa è uguale a qualcos'altro e quel qualcosa cambia sempre, non è non è così banale. Mh. Poi ovviamente è banale nel momento in cui tu hai un algoritmo che ti dà, che ne so, una mela, la puoi codificare con il valore tre, un'altra mela che è anche diversa. Se la classifichi come mela diventa sempre un tre e quindi queste due cose sono uguali. Quindi se usi appunto un classificatore che ti dice questa appartiene alla classe X eh nonostante abbia delle caratteristiche diverse da tutte le altre, ma è uguale a un'altra che ha le stesse caratteristiche, quindi hai una classe a cui associarla, chiaramente riesci a dirti se è una cosa uguale a un'altra,
+ok?
+Ma con un ticket è leggermente diverso, perché tu non è che puoi dire questa cosa appartiene a questa classe, a meno che non lo vedi in quel senso lì. Ma non credo sia il tuo caso, cioè almeno non mi viene in mente niente che vada in quella direzione.
+Non puoi associare un ticket a una certa categoria perché dovresti avere appunto non lo so, cioè eh che ne so il failure di quel server lì,
+capito? C
+c'è diciamo una sorta di titolo, ma anche qui è comunque una parte testuale, cioè adesso ne leggo uno, errato, caricamento fattura da interfaccia,
+ma non hai niente di standard, cioè la persona che mette il titolo Sì, sì, sì. Cioè, ci sono le categorie, ma anche lì
+categorie sono Sì, sì, sì, sì. Ma non è Cioè, un due ticket che appartengono alla stessa categoria non sono di per sé ridondanti,
+no? Esatto. Cioè,
+quindi non hai un'oggettivazione della ridondanza da quel punto di vista. No, no, secondo me, cioè questa roba, sai come si fa in si fa con le adversari network, cioè le reti che che diciamo competono tra loro per produrre un una output, perché tu fondamentalmente vuoi imparare a ricostruire, cioè è come se tu stessi codificando dei ticket
+mh
+e ricostruendo dei ticket e il ticket che tu ricostruisci deve essere uguale al ticket che tu hai creato all'inizio.
+Sì,
+ma il modo in cui questo viene ricreato ehm ehm dipende appunto da da dalle informazioni temporali e dalle informazioni descrittive. Quindi effettivamente tu stai imparando un nuovo modo di dire quando un ticket è uguale a un altro ticket.
+Sì.
+Eh. E quindi tu che cosa vuoi? Vuoi immaginati una rete che prende un ticket e lo trasforma in un modo, un'altra rete che prende un ticket e lo trasforma nello stesso modo di quell'altra, ok? E impari fondamentalmente a costruire cose che sono costruire ehm rappresentazioni uguali a partire da cose che sono apparentemente diverse. Non so se mi riesco a spiegare, non so se hai mai se hai mai visto, appunto, le reti, le gun, le adversarial network.
+No, però ho capito il concetto, diciamo,
+cioè, hai capito qual è il senso? Il senso è che tu come fai come fai a trasformare senza essere supervisionato? Come fai a trasformare nella stessa rappresentazione due cose diverse? Ehm, come si fa? Si prendono due reti e cioè tu quello che sai, la tua supervisione è che quelle due cose eh simili, appunto, quelle due cose sono simili, ma hanno delle rappresentazioni diverse perché hanno dei testi diversi e delle date diverse. Allora, quello che tu vuoi fare è prendere due reti e dire cerca di generarmi la rappresentazione di una m
+e di avvicinarla a la rappresentazione che l'altra rete dà a un'altra cosa diversa. Devono terminare nella stessa roba.
+Sì, sì, sì.
+Il concetto è sempre quello di distanza, cioè distanza, vicinanza.
+Esatto. Concetto è sempre Esatto. Il second concetto sempre avvicinarle a una stessa rappresentazione vettoriale che quindi ovviamente ha distanza zero o tende alla distanza zero.
+Ok?
+E in realtà funzionano molto bene perché tu non devi dare tanti esempi di queste robe per farle per fargli appunto urrepresentazioni simili.
+Ok?
+Quindi gli metti è come se tu dovresti avere un dataset lì, però appunto conta molto il dataset perché dovresti avere un dataset effettivamente di ticket ridondanti, cioè è inutile che prendi appunto tutti i ticket da boh, dalle ultime tre settimane.
+Mh. Sì, sì, sì.
+Ma devi prendere tutti i ticket che sono effettivamente ridondanti, cioè che esibiscono questa questo esempio.
+No, no. Ok, diciamo questo un po' un lavoro manuale da fare.
+È un po' un lavoro manuale. Eh, puoi pensare ovviamente di ridurlo prendendo un e e è che poi i ticket ridondanti non credo che siano la maggioranza.
+No, spero di no. Diciamo che questo controllo non c'è, quindi speriamo di no.
+Eh, non c'è questo controllo, quindi potrei
+Eh, beh, sì, è da 5 anni. che non c'è mai più stato un controllo interno perché la persona che lo seguiva se n'è andata e non è stata sostituita. Ah,
+quindi
+non lo so, non posso dirglielo con certezza.
+Allora, la cosa sinceramente però che appunto magari qua non stiamo considerando e invece è assolutamente da considerare è che questo non è la prima volta sicuramente che ci si trova di fronte a questo problema. Quindi io quello che farei in questa fase è certamente andare a fare una ricerca eh un po' più approfondita di questo problema di ticketing. Non so se t'ho dato cioè su papers with Code c'è c'è roba. Non so se ti ho dato la pagina come riferimento.
+M non mi sembra.
+Però per esempio qui troverai sicuramente a livello di ticket classification, ticket search
+non lo so, ma c'è c'è n roba M ehm che poi si chiamano ticket.
+Sì, li chiamiamo ticket incident. Poi li hai chiamati ticket, però
+incident non lo so.
+No. Secondo me il task è E qual è il sistema che utilizzate? Il software
+Sì,
+si chiama Rule Designer.
+Rule designer.
+Chiamo RAM.
+Ah, il RAM. Sì, sì. Helpes ticket. secondo me, vabbè, a parte magari vari nomi, però appunto c'è ehm eh appunto textification per ticketing. Sì, no, dicono ticket, effettivamente. Cioè, capito? Nel senso, rappresentazione da dare a dei ticket che hanno una data di apertura e una descrizione?
+Mh.
+Io penso che ce ne siano parecchi, nel senso, sto facendo ricerca un po' così e ne vedo ovviamente molti che utilizzano topic modeling per fare fondamentalmente però classificazione del topic. Ehm Quindi, diciamo, molto, ovviamente è sempre molto incentrata sul discorso del del modeling, però utilizzano appunto Recar Neural Network per fare ticketing, prendono la descrizione fondamentalmente e ovviamente hanno una classe, quindi sono supervisionati. Mh. La cosa più sensata sarebbe fare,
+cioè partire da un modello, boh, preallenato.
+Sì, sì, sicuramente. Per esempio, questo resolve tickets with high powered similar ticket. Esatto. Cioè non so questo qui poi a che punto arriva di dettaglio, però questo è un po' il problema. Show similar ticket. Sì, cioè sì, sa.
+Vabbè, questo è un servizio. Ovviamente il problema è questo e la soluzione Amente, però direi che almeno raccattiamo il discorso del similar ticket. Ok, quindi diciamo alla fine il prossimo step. Allora, il prossimo step secondo me è fare appunto un po' tipo A enhanc ticket management system for optimiz. c'è un po' eh tra se vai in ticket similarity ai o ticket similarity machine learning eh non so appunto se c'è magari qualcosa, scusa, perché adesso mi sono intrippato ticketarity.
+Spero che sia un progetto interessante.
+Sì, sì, sì. No, anche perché voglio sinceramente voglio anche valutare quale sia la difficoltà del perché Mh.
+Conto è che chiaramente, cioè io non punto a far a farti implementare come nessun altro, a fare implementare delle reti, delle architetture complesse, customizzate, perché diventa ovviamente un problema più grande di quello che io voglio valutare. Io voglio valutare il design sperimentale all'interno del progetto. Ok? Cioè, poi
+su questa roba qua ci ho fatto delle tesi era proprio da implementare un'architettura a parte, quindi quello che sto cercando di valutare è quale parte ha senso fare.
+Ok? arrivare alla classificazione. Poi ovviamente ci credo che è un po' un interesse della tua azienda quella che tu arrivi a fare questa cosa qua completa, però secondo me il sto cercando di capire, cioè secondo me le cose da i prossimi step da fare sono in realtà comporre un eh una comprensione del problema e cercare di dire ok, la la soluzione va in quella direzione, ma l'implementazione ha un effort che è eh che è alto. Ehm e quindi secondo me le cose interessanti da fare adesso, cioè potrebbe anche essere semplicemente, cioè per il progetto sai cosa basta a me, perché il design sperimentale poi lo devi fare comunque, mh
+mh
+è il discorso del dataset, cioè che dati usi per fare questa roba?
+Ok,
+applicargli un modello, magari tu puoi applicare un modello, un prototipo di modello anche veramente mascarla nel classico senza andare a fare reti neurali oppure pensare in termini di architettura di reti neurali, ma non in implementarla, cioè te la implementi in un futuro, magari se ci vuoi fare la tesi, non lo so, però io non andrei nella direzione di creare un'architettura personalizzata perché è un effort che sinceramente a me non interessa la valutazione del del dell'esame. Ok?
+Ok?
+Quindi mi basta pensare che tu comprendi questo problema bene, nel senso che ok, è la descrizione è la data e il daytime quello che mi interessa, bene, cosa sto facendo? Cioè, capito? Discorsi che abbiamo fatto oggi hanno identificato un po' il problema. Bene, perché abbiamo per esempio capito che il discorso di dire quanto sono simili due ticket non è banale, non hai una ground, non è una classificazione.
+Sì,
+e quindi hai bisogno di avere un ragionamento sulla rappresentazione che dai ai ticket a livello temporale, a livello testuale e pensare a una rappresentazione, anzi pensare a un modello di analisi che prenda questa rappresentazione e impari quello che tu vuoi, cioè impari che te testi simili in periodi in con ciclicità, quindi in con una certa stagionalità, sono rilevanti per determinare se due ticket sono ridondanti
+o più ticket sono ridondanti. Quindi questa è la tua tesi. Ora, a partire da questa tesi, non a me non è non interessa che tu sviluppi l'intero sistema per per avere questo algoritmo. di intelligenza artificiale che ti dice se due ticket sono un gruppo di ticket sono ridondanti.
+Mh.
+Poi anche questo, cioè immaginati che io ti devo dare Sì. La il confronto è sempre tra due ticket. Io ti do però 100 ticket e tu mi devi tirare fuori cosa mi devi tirare fuori? Cioè immaginatelo al no al nel momento in cui viene utilizzato, cioè qual è l'output che ti aspetti? Non è banale? Eh
+sì, c'è l'output che mi aspetterei, diciamo, in un mondo ideale. E sarebbe sì quello di ehm se se ci sono dei problemi,
+scusi,
+cioè tu hai 100 ticket e io mi immagino che di quei 100 ticket mi tiri fuori un set di 10 ticket che sono il il appunto i rappresentanti del delle classi di ticket ridondanti.
+Sì,
+tu hai avrai 10 gruppi, in ognuno dei gruppi ci sono i ticket, cioè una clasterizzazione, capito? Di ticket,
+sì.
+In cui tu hai dei ticket ridondanti Eh, e prendi uno per ogni gruppo e ti ho fatto il filtro, così tu invece di mandarne 100 ne mandi 10. Hai un risparmio di 90.
+Ok,
+mi immagino.
+Sì, sì, sì.
+Oppure invece 100 me ne mandi uno perché finiscono tutti nello stesso cluster. Cioè, questa roba qua è effettivamente ha più senso farla come un pensarla come una appunto un un una cosa non supervisionata in cui tu ti concentri sulla rappresentazione e poi magari appunto la lanci un algoritmo di clustering che è più semplice, senza andare a fare complesse
+e vai ad analizzare e vai a tenerti i cluster eh per estrarre da ogni cluster il rappresentante. A questo punto questa qua secondo me è la cosa più semplice, ma che va nella direzione in cui tu che vuoi. Quindi
+m
+il prossimo passo, secondo me, è questo, cioè è identificare un po' input e output e da questo input e output costruire un esperimento che dice devo prendere i dati, ok? Possibilmente avendo dei eh un dovrei trovare un dataset di elementi il più ridondanti possibili, perché se se ho tutti i cluster con element un elemento Sì.
+Sì.
+vuol dire che
+quindi il più possibile ridondanti e poi voglio costruire una rappresentazione che contiene sia le informazioni testuali che quelle temporali e poi fare una classierizzazione di questi di questi due gruppi. gruppi di informazioni eh unite. Ok. No. Ok. Quindi diciamo il primo step è sempre a livello di analisi o andando magari anche già a definire un dataset? Può aver senso come prossimo step, diciamo.
+E io vedo questi tre, guarda, la cosa più semplice che vedo sono questi tre step, cioè eh
+tipo un singolo questi tre.
+Esatto. Cioè, mettendo giù mettendo giù, diciamo, il il appunto il design sperimentale, cioè il creare il il crearsi un dataset con l'obiettivo poi di fare classierizzazione, no? Quindi questo obiettivo di classierizzazione ovviamente ti porta ad avere un dataset, poi lo puoi provare, tanto se fai classizzazione ce lo puoi provare su un numero veramente esiguo di di roba. Eh, e se ti prendi
+Certo, è un po' è manuale perché effettivamente tu devi, cioè è manuale nel senso che se tu hai troppa roba non Dondante la clasteriz puoi provarlo, eh, cioè poi non c'è bisogno.
+Sì, probabilmente la clasterizzazione, cioè fa un un confronto uno a uno, cioè mi rimangono i ticketto un a uno e ti rimangono tutti i ticket che non sono ridondanti ti rimangono da soli, quindi ci potrebbe anche stare. Sì, sì.
+Laddove trovi i gruppi con appunto informazioni, solo che la la clasterizzazione anche lì, cioè la clasterizzazione è statica, nel senso che se effettivamente trovi che il numero del cioè che la data è diversa, cioè la data è diversa e quindi Chiaramente va lontana quella roba, però il punto è questo. Tu dovresti appunto trovare un dataset il più possibile ridondante, ma vabbè, stringi in un momento in cui sai che c'è quella situazione del salta al server,
+è un buon momento,
+trasformi le rappresentazioni, quindi in testuale e in e in data, ok? Oppure fai prima butti tutto dentro la data perché di mod quelli che trasformano rappresentazione in linguaggio naturale, in forma vettoriale, ce ne sono tanti e sono buoni. I modelli linguistici te lo prendi off the shelf, scaricato da, che ne so, Agame Face o chi per esso e te lo fai te lo fai facile. Un Bert piuttosto che un boh, ce ne son tanti basati su Bert fondamentalmente
+che è un Transformer,
+eh. Di Bert, diciamo, il modello classico oppure tipo di Bert. quello più
+Sì. o Roberta, tipo ce ne sono tanti.
+Sì, quelli un po' più soft, diciamo. Uso il modello?
+No, no, no, quelli più soft.
+Ok.
+Sì, sì, quello che ti entra in nel computer.
+Ok. Ehm. Ok, quindi step uno, mi faccio il mio dataset, cioè con l'obiettivo di clusterizzazione, quindi con ticket il più possibile ridondante, prendendo uno slot.
+Esatto. Io butterei tutte le informazioni dentro il testo, trasformerei con un Bert like like model che ti trasforma però non che la classe ovviamente, ma solo proprio la il vettore, cioè ti fa la codifica,
+ok?
+E dopodiché questa codifica la passi a un clasterizzatore e vedi che succede con l'obiettivo ovviamente di vedere appunto cluster di ticket simili ah e cluster vuoti oppure appunto con un elemento singolo per cluster per per ticket che sono non ridondanti. A quel punto vedi se tirando fuori, cioè poi cosa devi andare a guardare? Devi andare a guardare ovviamente la ehm all'interno del cluster, ma lo puoi apprezzare appunto se tu mi dai 100 ticket puoi apprezzare qualitativamente e per me va benissimo perché è un prototipo che va nella direzione, cioè capisci se effettivamente quella cosa può avere senso o meno
+e puoi andare a apprezzare qualitativamente se ha trovato un cluster di 10 ticket che sono effettivamente tutti relativi. ha lo stesso alla stessa problematica,
+no? Ok.
+Ecco questa cosa qua cosa succede? Cioè se tu hai questo sistema qua, ovviamente non è il sistema finale che tu puoi mettere in produzione in sistema, ma è sicuramente un'indicazione di massima molto valida per dire che quella là è la direzione da seguire.
+No, no, ho capito.
+Sei d'accordo com'è?
+Sì, sì. No, mi sembra sì ben
+strutturatainando la rappresentazione che tu dai a al testo insieme insieme al alla data e apprendendo stagionalità puoi migliorare ulteriormente il sistema, però almeno la direzione è quella di fare una di fare questo tipo di studio
+di classierizzazione e hai effettivamente l'output desiderato.
+Ok? Quindi
+perché poi abbastanza basso tu effettivamente automatizzi questo processo di estrazione del del rappresentante della classe di equivalenza nel del cluster del centroide m
+tiri fuori il centroide e mandi il centroide a al ticket. Cioè al ticket alls o non so come si chiami all l'azienda.
+Sì, sì, all comunque. Sì, sistem.
+Ok, quindi diciamo faccio questi step e poi le le riscrivo, ne faccio uno e ne scrivo.
+Sì, guarda, facciamo adesso sto cercando di adottare questa tecnica perché la vedo che funziona di più.
+Ehm
+eh proponimi direttamente un evento,
+ok?
+In cui mi inviti, così io posso o accettare o proporre un nuovo Ok?
+In modo tale da, insomma, da da fissare un incontro così da avere una proposta perché ultimamente ho parecchi impegni e soprattutto adesso che periodo esami e quindi faccio un po' difficoltà a trovare io una data che
+quindi se mi proponi tu una data in cui so già che a te va bene, troviamo troviamo direttamente il il momento giusto. Ok.
+Ok. Quindi diciamo faccio questi tre step che ci vorrà qualche giorno sicuramente più che qualche giorno. Poi mi fai sapere e per me appunto, cioè cè se arrivi con i risultati qualitativi di classe per me puoi consegnare. Sì, sì.
+Cioè discutiamo quelli, capito?
+No, va bene. Direi che No, mi sembra una buona struttura che con e il target che sia ben definito.
+Sì, sì, sì, sì. Eh, ma è quello, cioè le l'idea è quella, appunto, di farlo insieme perché si ha sensato dal principio e
+Sì, sì, anche sviluppare cose. Io mi trovo da avanti poi dei problemi che effettivamente io non ho mai affrontato, quindi mi devo mi devo anche bisogna dobbiamo anche ragionare insieme.
+No, no, assolutamente.
+Ok,
+va bene. Provo a fare questi tre step e poi
+io come implementatori proprio beceramente,
+ok?
+Cioè, mi faccio i miei viaggi e dico "Va bene, fallo".
+No, no, va bene, va bene.
+Però effettivamente che avviene poi, cioè io faccio anche consulenza e poi è così che avviene nel mondo del lavoro.
+Sì, sì, sì. Cioè il il cliente, il fornitore.
+Eh sì, eh
+diciamo alla fine così. Quindi dai, faccio questi tre step, poi comunque le mando una mail e in più l'invito diretto per un evento. E
+va bene. Buona giornata Matteo.
+Grazie anche a lei.
+A presto.
+A presto.
